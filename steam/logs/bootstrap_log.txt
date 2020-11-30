@@ -1,0 +1,10 @@
+
+
+[2020-11-30 16:03:21] Startup - updater built May 21 2018 14:21:49
+[2020-11-30 16:03:21] Verifying installation...
+[2020-11-30 16:03:21] Unable to read and verify install manifest E:\steam\package\steam_client_win32.installed
+[2020-11-30 16:03:21] Verification complete
+[2020-11-30 16:03:21] Downloading Update...
+[2020-11-30 16:03:21] Checking for available update...
+[2020-11-30 16:03:23] Shutdown
+[2020-11-30 16:03:23] Error: Download failed: http error 0
